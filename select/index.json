@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あんたにあっかんべ",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-20T08:09:04.329458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あんたにあっかんべ",
+      "artist": "hifumi",
+      "has_synced": true,
+      "path": "select/01_あんたにあっかんべ_hifumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あんたにあっかんべ",
+      "artist": "一二三",
+      "has_synced": false,
+      "path": "select/02_あんたにあっかんべ_一二三.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あんたにあっかんべ",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_あんたにあっかんべ_藍月なくる.txt"
+    }
+  ]
+}
